@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Chez Toi</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="restxt">Bienvenue Chez Toi!</string>
+    <string name="resbtn">GET STARTED</string>
+    <string name="resign">SIGN IN</string>
+    <string name="resnew">NEW USER</string>
+    <string name="resreg">REGISTER</string>
+
+    <string name="title_activity_login">LoginActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_the_shop">TheShop</string>
+    <string name="title_activity_inventory">Inventory</string>
+    <string name="title_activity_view">View</string>
+
+</resources>
